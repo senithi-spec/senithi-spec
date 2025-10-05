@@ -32,8 +32,8 @@ Familiar with tools that support analysis, collaboration, and product planning:
 
 Currently learning and applying principles through **SkillUpConnect** and guided learning platforms.
 
-| 💡 Agile & Scrum | 🧩 User Story Mapping | 🎯 Requirements Elicitation |
-| 🔄 BPMN Modelling | 🧠 Use Case & Workflow Modelling | 🗺️ Product Roadmapping |
+> 🟢 **Agile & Scrum** 🟣 **User Story Mapping** 🟠 **Requirements Elicitation**  
+> 🔵 **BPMN Modelling** 🟡 **Use Case & Workflow Modelling** 🟤 **Product Roadmapping**
 
 
 
