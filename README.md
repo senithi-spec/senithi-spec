@@ -64,11 +64,21 @@ Developing strengths in:
   [Case Study PDF](https://github.com/yourusername/ecommerce-case-study)
 
 
-## 📝 Articles & Publications  
+## 📝 Articles & Publications
 
-- [How User Research Shapes Better Product Decisions](https://www.linkedin.com/pulse/your-article-link)  
-- [Bridging the Gap Between Business and Tech as a BA](https://www.linkedin.com/pulse/your-second-article-link)  
-- [Key Lessons from Building SkillUpConnect](https://www.linkedin.com/pulse/your-third-article-link)  
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+### 📌 [How User Research Shapes Better Product Decisions](#)
+*Explore how understanding user needs drives smarter product strategies and successful outcomes.*
+
+### 📌 [Bridging the Gap Between Business and Tech as a BA](#)
+*Insights on effectively translating business requirements into technical solutions.*
+
+### 📌 [Key Lessons from Building SkillUpConnect](#)
+*A behind-the-scenes look at challenges, growth, and learnings from developing a peer-to-peer learning platform.*
+
+</div>
+
 
 🧩 I regularly write about **product thinking, user experience, and data-informed decisions** on [LinkedIn](https://www.linkedin.com/in/your-link) and [Medium](https://medium.com/@yourusername).
 
