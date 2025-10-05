@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Senithi Mathangaweera  
+ I'm Senithi Mathangaweera  
 
 
 🎯 **Aspiring Business Analyst | Product Management Enthusiast | Tech-Driven Problem Solver**
 
 I’m passionate about bridging the gap between business needs and technology — translating user insights into impactful digital solutions.  
 Currently developing **SkillUpConnect**, a personalized peer-to-peer learning platform connecting mentors and learners.
+
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://yourportfolio.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
 
 
 ## 💡 About Me  
