@@ -1,4 +1,4 @@
-## Senithi Mathangaweera  
+# Senithi Mathangaweera  
 
 
 🎯 **Aspiring Business Analyst | Product Management Enthusiast | Tech-Driven Problem Solver**
@@ -33,8 +33,8 @@ Familiar with tools that support analysis, collaboration, and product planning:
 Currently learning and applying principles through **SkillUpConnect** and guided learning platforms.
 
 | 💡 Agile & Scrum | 🧩 User Story Mapping | 🎯 Requirements Elicitation |
-|------------------|----------------------|-----------------------------|
-| 🔄 Business Process Modelling (BPMN) | 🧠 Use Case & Workflow Modelling | 🗺️ Product Roadmapping |
+| 🔄 BPMN Modelling | 🧠 Use Case & Workflow Modelling | 🗺️ Product Roadmapping |
+
 
 
 ---
